@@ -1,0 +1,12 @@
+{
+  "title": "Đơn Hàng Của Bạn",
+  "pending": "Chờ xử lý",
+  "processing": "Đang xử lý",
+  "in_delivery": "Đang giao hàng",
+  "cancelled": "Đã hủy",
+  "completed": "Đã hoàn thành",
+  "totalProduct": "Tổng số tiền",
+  "item": "sản phẩm",
+  "date": "Ngày Mua",
+  "handOver": "Người bán đã bàn giao đơn hàng {{orderId}} cho đơn vị vận chuyển."
+}

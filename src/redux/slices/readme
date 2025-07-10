@@ -1,0 +1,12 @@
+userInfo
+Additional user data, often needed globally
+
+ShippingAddressList
+Shared between checkout, profile, etc.
+
+totalPrice
+Tied to cart and checkout logic
+
+isSelectAll
+If selection affects multiple views/components
+

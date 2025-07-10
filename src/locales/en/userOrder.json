@@ -1,0 +1,12 @@
+{
+  "title": "Your Order",
+  "pending": "Pending",
+  "processing": "Processing",
+  "in_delivery": "In Delivery",
+  "cancelled": "Cancelled",
+  "completed": "Completed",
+  "totalProduct": "Total",
+  "item": "item",
+  "date": "Date Purchased",
+  "handOver": "Order {{orderId}} has been handed over to the delivery service by the seller."
+}

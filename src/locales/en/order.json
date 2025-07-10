@@ -1,0 +1,17 @@
+{
+  "title": "Checkout",
+  "shippingOptions": "Shipping Options",
+  "regularShipping": "Regular Shipping",
+  "regularShippingDate": "Ships in 1-2 business days",
+  "instantShipping": "Instant Shipping",
+  "instantShippingDate": "Guaranteed today",
+  "total": "Total",
+  "free": "Free",
+  "paymentMethod": "Payment Method",
+  "cod": "Cash On Delivery",
+  "onlineBankings": "Online Bankings",
+  "paymentDetails": "Payment Details",
+  "productSubtotal": "Product Subtotal",
+  "shippingSubtotal": "Shipping Subtotal",
+  "placeOrder": "Place Order"
+}

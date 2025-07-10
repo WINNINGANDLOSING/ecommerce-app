@@ -1,0 +1,18 @@
+{
+  "title": "Thông Báo",
+  "orderUpdates": "Cập nhật đơn hàng",
+  "readAll": "Đọc tất cả",
+  "completed": "Đơn hàng hoàn thành",
+  "cancelled": "Đơn hàng bị huỷ",
+  "pending": "Đơn hàng đang được xử lý",
+  "processing": "Người bán đang chuẩn bị hàng",
+  "in_delivery": "Đơn hàng đang được vận chuyển",
+  "order": "Đơn hàng",
+
+  "pending_text": "Đơn hàng ({{productName}}) của bạn đã được tiếp nhận và đang được xử lý.",
+  "processing_text": "Người bán đang chuẩn bị đơn hàng ({{productName}}) của bạn.",
+  "completed_text": "Đơn hàng ({{productName}}) của bạn đã được giao.",
+  "cancelled_text": "Đơn hàng đã bị hủy bởi bạn hoặc người bán.",
+  "in_delivery_text": "Người bán đã bàn giao đơn hàng ({{productName}}) cho đơn vị vận chuyển.",
+  "date": "Ngày tạo đơn: "
+}

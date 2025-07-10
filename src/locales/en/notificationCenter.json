@@ -1,0 +1,18 @@
+{
+  "title": "Notifications",
+  "orderUpdates": "Order Updates",
+  "readAll": "Read all",
+  "pending": "Order Pending",
+  "completed": "Order Completed",
+  "cancelled": "Order Cancelled",
+  "processing": "Order Received",
+  "in_delivery": "Order In Transit",
+  "order": "Order",
+  "handOver": "Order {{productName}} has been handed over to the delivery service by the seller.",
+  "pending_text": "Your order {{productName}} has been received and is being processed.",
+  "processing_text": "The seller is preparing your order.",
+  "completed_text": "Your order ({{productName}}) has been delivered.",
+  "cancelled_text": "The order was cancelled by you or the seller.",
+  "in_delivery_text": "The seller has handed over order {{productName}} to the shipping carrier.",
+  "date": "Created on: "
+}

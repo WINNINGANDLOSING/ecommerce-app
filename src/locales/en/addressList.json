@@ -1,0 +1,14 @@
+{
+  "title": "Address List",
+  "subTitle": "Add New Address",
+  "addressDetail": "Address Detail",
+  "fullName": "Full Name",
+  "phoneNumber": "Phone Number",
+  "streetName": "Street Name, House No.",
+  "setAsDefault": "Set as default address",
+  "addressType": "Address Type",
+  "add": "Add",
+  "setDefault": "Set as default address",
+  "home": "Home",
+  "workplace": "Workplace"
+}

@@ -1,0 +1,14 @@
+{
+  "reviews": "reviews",
+  "deliveryEstimate": "Delivery Estimate",
+  "inStock": "In Stock",
+  "addToCart": "Add To Cart",
+  "buyNow": "Buy Now",
+  "stock": "Stock",
+  "amount": "Amount",
+  "moreInfo": "More Info",
+  "comments": "Comments",
+  "weight": "Weight",
+  "dimensions": "Dimensions",
+  "close": "Close"
+}

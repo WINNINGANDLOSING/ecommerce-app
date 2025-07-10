@@ -1,0 +1,36 @@
+[debug] [2025-05-29T06:13:08.756Z] ----------------------------------------------------------------------
+[debug] [2025-05-29T06:13:08.759Z] Command:       /opt/homebrew/Cellar/node/23.11.0/bin/node /opt/homebrew/bin/firebase firestore:delete --all-collections --project simpleloginapp
+[debug] [2025-05-29T06:13:08.759Z] CLI Version:   14.4.0
+[debug] [2025-05-29T06:13:08.759Z] Platform:      darwin
+[debug] [2025-05-29T06:13:08.759Z] Node Version:  v23.11.0
+[debug] [2025-05-29T06:13:08.760Z] Time:          Thu May 29 2025 13:13:08 GMT+0700 (Indochina Time)
+[debug] [2025-05-29T06:13:08.760Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-29T06:13:08.764Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-29T06:13:08.765Z] > authorizing via signed-in user (khoalieudang@gmail.com)
+[debug] [2025-05-29T06:13:08.765Z] [iam] checking project simpleloginapp for permissions ["datastore.entities.delete","datastore.entities.list","firebase.projects.get"]
+[debug] [2025-05-29T06:13:08.765Z] Checked if tokens are valid: true, expires at: 1748501500051
+[debug] [2025-05-29T06:13:08.765Z] Checked if tokens are valid: true, expires at: 1748501500051
+[debug] [2025-05-29T06:13:08.766Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/simpleloginapp:testIamPermissions [none]
+[debug] [2025-05-29T06:13:08.766Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/simpleloginapp:testIamPermissions x-goog-quota-user=projects/simpleloginapp
+[debug] [2025-05-29T06:13:08.766Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/simpleloginapp:testIamPermissions {"permissions":["datastore.entities.delete","datastore.entities.list","firebase.projects.get"]}
+[debug] [2025-05-29T06:13:10.045Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/simpleloginapp:testIamPermissions 200
+[debug] [2025-05-29T06:13:10.046Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/simpleloginapp:testIamPermissions {}
+[debug] [2025-05-29T06:13:10.046Z] [iam] error while checking permissions, command may fail: Authorization failed. This account is missing the following required permissions on project simpleloginapp:
+
+  datastore.entities.delete
+  datastore.entities.list
+  firebase.projects.get
+[debug] [2025-05-29T06:13:12.053Z] ExitPromptError: User force closed the prompt with SIGINT
+    at Interface.sigint (/opt/homebrew/lib/node_modules/firebase-tools/node_modules/@inquirer/core/dist/commonjs/lib/create-prompt.js:101:37)
+    at Interface.emit (node:events:507:28)
+    at Interface.emit (node:domain:489:12)
+    at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1129:18)
+    at ReadStream.onkeypress (node:internal/readline/interface:268:20)
+    at ReadStream.emit (node:events:519:35)
+    at ReadStream.emit (node:domain:489:12)
+    at emitKeys (node:internal/readline/utils:370:14)
+    at emitKeys.next (<anonymous>)
+    at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+[error] 
+[error] Error: An unexpected error has occurred.

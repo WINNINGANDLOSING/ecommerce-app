@@ -1,0 +1,102 @@
+{
+  "bottomTabs": {
+    "home": "Home",
+    "categories": "Categories",
+    "cart": "Cart",
+    "Profile": "Profile"
+  },
+
+  "home": {
+    "title": "Home",
+    "welcome": "Welcome back!",
+    "viewAll": "View All",
+    "deliveryAddress": "Delivery Address",
+    "searchEntireShop": "Search The Entire Shop",
+    "todayBestDeal": "Today's Best Deal",
+    "Discount": "50% OFF",
+    "categories": "Categories",
+    "seeAll": "See All"
+  },
+
+  "productCard": {
+    "days": "days",
+    "addToCart": "Add To Cart",
+    "currency": "$"
+  },
+
+  "productDetail": {
+    "reviews": "reviews",
+    "deliveryEstiate": "Delivery Estimate",
+    "inStock": "In Stock",
+    "addToCart": "Add To Cart",
+    "buyNow": "Buy Now",
+    "moreInfo": "More Info",
+    "comments": "Comments",
+    "weight": "Weight",
+    "dimensions": "Dimensions",
+    "close": "Close"
+  },
+  "categories": {
+    "title": "Filter Products by Categories"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "checkout": "Proceed To Checkout",
+    "clearAll": "Clear All",
+    "selectAll": "Select All",
+    "total": "Total"
+  },
+  "order": {
+    "title": "Checkout",
+    "shippingOptions": "Shipping Options",
+    "regularShipping": "Regular Shipping",
+    "regularShippingDate": "Ships in 1-2 business days",
+    "instantShipping": "Instant Shipping",
+    "instantShippingDatef": "Guaranteed today",
+    "total": "Total",
+    "paymentMethod": "Payment Method",
+    "cod": "Cash On Delivery",
+    "onlineBankings": "Online Bankings",
+    "paymentDetails": "Payment Details",
+    "productSubtotal": "Product Subtotal",
+    "shippingSubtotal": "Shipping Subtotal",
+    "placeOrder": "Place Order"
+  },
+  "orderSucess": {
+    "confirm": "Order Placed!",
+    "message": "Thank you for your purchase. Your new order can be seen at Profile &gt;User Order",
+    "backToHome": "Back To Home"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Account",
+    "cart": "Your Cart",
+    "orders": "Your Order",
+    "address": "Address",
+    "help": "Help And Support",
+    "logout": "Log Out"
+  },
+  "settings": {
+    "title": "Settings",
+    "return": "Return",
+    "address": "Delivery Address",
+    "language": "App Language",
+    "payment": "Payment Method",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "about": "About",
+    "communityRules": "Community Rules",
+    "policies": "App Policies"
+  },
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "back": "Back"
+  },
+  "errors": {
+    "network": "Network error. Please try again.",
+    "unknown": "Something went wrong."
+  }
+}

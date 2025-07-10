@@ -1,0 +1,14 @@
+{
+  "title": "Địa Chỉ Giao Hàng",
+  "subTitle": "Thêm Địa Chỉ Mới",
+  "addressDetail": "Chi tiết",
+  "fullName": "Họ và tên",
+  "phoneNumber": "Số điện thoại",
+  "streetName": "Tỉnh/ Thành phố, Quận/Huyện, Phường/Xã",
+  "setAsDefault": "Đặt làm địa chỉ mặc định ",
+  "addressType": "Address Type",
+  "add": "Thêm",
+  "setDefault": "Đặt làm địa chỉ mặc định",
+  "home": "Nhà",
+  "workplace": "Chỗ Làm"
+}

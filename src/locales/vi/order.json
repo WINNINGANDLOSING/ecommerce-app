@@ -1,0 +1,17 @@
+{
+  "title": "Thanh Toán",
+  "shippingOptions": "Phương Thức Vận Chuyển",
+  "regularShipping": "Tiêu Chuẩn",
+  "regularShippingDate": "Giao hàng trong 1-2 ngày",
+  "instantShipping": "Hoả Tốc",
+  "instantShippingDate": "Đảm bảo nhận hàng trong ngày",
+  "total": "Tổng cộng",
+  "free": "Miễn phí",
+  "paymentMethod": "Phương Thức Thanh Toán",
+  "cod": "Thanh Toán Khi Nhận Hàng",
+  "onlineBankings": "Thanh Toán Qua Thẻ",
+  "paymentDetails": "Chi Tiết Giao Dịch",
+  "productSubtotal": "Tổng Số Tiền Sản Phẩm",
+  "shippingSubtotal": "Tổng Số Tiền Vận Chuyển",
+  "placeOrder": "Đặt hàng"
+}

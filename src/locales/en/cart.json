@@ -1,0 +1,9 @@
+{
+  "title": "Cart",
+  "empty": "Your cart is empty",
+  "checkout": "Proceed To Checkout",
+  "clearAll": "Clear All",
+  "selectAll": "Select All",
+  "total": "Total",
+  "confirmDel": "Are you sure you want to remove this item from your cart ?"
+}

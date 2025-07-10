@@ -1,0 +1,14 @@
+{
+  "title": "Settings",
+  "return": "Return",
+  "address": "Delivery Address",
+  "language": "App Language",
+  "payment": "Payment Method",
+  "support": "Support",
+  "userSettings": "User Settings",
+
+  "helpCenter": "Help Center",
+  "about": "About",
+  "communityRules": "Community Rules",
+  "policies": "App Policies"
+}

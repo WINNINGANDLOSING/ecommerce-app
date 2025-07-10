@@ -1,0 +1,100 @@
+{
+  "bottomTabs": {
+    "home": "Trang Chủ",
+    "categories": "Mặt Hàng",
+    "cart": "Giỏ Hàng",
+    "Profile": "Tôi"
+  },
+
+  "home": {
+    "title": "Trang chủ",
+    "welcome": "Chào mừng trở lại!",
+    "viewAll": "Xem tất cả",
+    "deliveryAddress": "Địa chỉ giao hàng",
+    "searchEntireShop": "Tìm kiếm Sản Phẩm",
+    "Discount": "Giảm Giá Đến 50%",
+    "categories": "Phân Loại Mặt Hàng"
+  },
+
+  "productCard": {
+    "days": "days",
+    "addToCart": "Thêm Vào Giỏ Hàng",
+    "currency": "đ"
+  },
+
+  "productDetail": {
+    "reviews": "đánh giá",
+    "deliveryEstiate": "Ngày Giao Hàng Dự Kiến",
+    "inStock": "Còn Hàng",
+    "addToCart": "Thêm Vào Giỏ Hàng",
+    "buyNow": "Mua Ngay",
+    "moreInfo": "Thông tin thêm",
+    "comments": "Đánh Giá",
+    "weight": "Cân Nặng",
+    "dimensions": "Kích thước",
+    "close": "Đóng"
+  },
+  "categories": {
+    "title": "Phân Loại Sản Phẩm"
+  },
+  "cart": {
+    "title": "Giỏ Hàng",
+    "empty": "Giỏ hàng trống",
+    "checkout": "Thanh toán",
+    "clearAll": "Xoá tất cả",
+    "selectAll": "Chọn Tất Cả",
+    "total": "Tổng tiền"
+  },
+  "order": {
+    "title": "Thanh Toán",
+    "shippingOptions": "Phương Thức Vận Chuyển",
+    "regularShipping": "Tiêu Chuẩn",
+    "regularShippingDate": "Giao hàng trong 1-2 ngày",
+    "instantShipping": "Hoả Tốc",
+    "instantShippingDatef": "Đảm bảo nhận hàng trong ngày",
+    "total": "Tổng cộng",
+    "paymentMethod": "Phương Thức Thanh Toán",
+    "cod": "Thanh Toán Khi Nhận Hàng",
+    "onlineBankings": "Thanh Toán Qua Thẻ",
+    "paymentDetails": "Chi Tiết Giao Dịch",
+    "productSubtotal": "Tổng Số Tiền Sản Phẩm",
+    "shippingSubtotal": "Tổng Số Tiền Vận Chuyển",
+    "placeOrder": "Đặt hàng"
+  },
+  "orderSucess": {
+    "confirm": "Đặt Hàng Thành Công!",
+    "message": "Cảm ơn bạn đã đặt hàng. Đơn hàng mới của bạn có thể xem tại Hồ sơ &gt; Đơn Hàng",
+    "backToHome": "Trở Về Trang Chủ"
+  },
+  "profile": {
+    "title": "Hồ sơ",
+    "edit": "Chỉnh Sửa Hồ Sơ",
+    "cart": "Giỏ Hàng Của Bạn",
+    "orders": "Đơn Hàng Của Bạn",
+    "address": "Địa Chỉ Giao hàng",
+    "logout": "Đăng Xuất"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "return": "Trở Lại",
+    "address": "Địa chỉ giao hàng",
+    "language": "Ngôn ngữ ứng dụng",
+
+    "payment": "Phương thức thanh toán",
+    "support": "Hỗ trợ",
+    "helpCenter": "Trung tâm trợ giúp",
+    "about": "Về ứng dụng",
+    "communityRules": "Nội quy cộng đồng",
+    "policies": "Chính sách ứng dụng"
+  },
+  "buttons": {
+    "save": "Lưu",
+    "cancel": "Huỷ",
+    "delete": "Xoá",
+    "back": "Quay lại"
+  },
+  "errors": {
+    "network": "Lỗi kết nối mạng. Vui lòng thử lại.",
+    "unknown": "Có lỗi xảy ra."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Order Details",
+  "pending": "Order received",
+  "processing": "Order confirmed, awaiting shipment",
+  "in_delivery": "Out for delivery",
+  "cancelled": "Order cancelled",
+  "completed": "Order completed",
+  "item": "item",
+
+  "paymentMethod": "Payment Method:",
+  "totalProduct": "Product Total",
+  "details": "Details",
+  "orderId": "Order ID",
+  "orderTime": "Placed on",
+  "shippingAddress": "Shipping Address",
+  "cod": "Cash on Delivery",
+  "onlineBankings": "Paid via Online Banking",
+  "price": "Item Price",
+  "total": "Order Total",
+  "needHelp": "Need help ?",
+  "policies": "Platform policies",
+  "helpCenter": "Help Center",
+  "cancelOrder": "Cancel Order",
+  "DeleteMainMsg": "Are you sure you want to cancel this order ?",
+  "DeleteSecondMsg": "It may take a few minutes for the system to display the changes."
+}

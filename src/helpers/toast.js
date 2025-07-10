@@ -1,0 +1,18 @@
+import {DeviceEventEmitter} from 'react-native';
+
+const toast = {
+  cart: options => {
+    DeviceEventEmitter.emit('SHOW_TOAST_MESSAGE', {...options, type: 'cart'});
+  },
+  // success: options => {
+  //   DeviceEventEmitter.emit('SHOW_TOAST_MESSAGE', {
+  //     ...options,
+  //     type: 'success',
+  //   });
+  // },
+  // danger: options => {
+  //   DeviceEventEmitter.emit('SHOW_TOAST_MESSAGE', {...options, type: 'danger'});
+  // },
+};
+
+export default toast;
